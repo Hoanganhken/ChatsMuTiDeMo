@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "991970963854",
+    "firebase_url": "https://chatsmutidemo.firebaseio.com",
+    "project_id": "chatsmutidemo",
+    "storage_bucket": "chatsmutidemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991970963854:android:d8447686954fb98d",
+        "android_client_info": {
+          "package_name": "com.example.munichats.chatsmutidemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991970963854-2nijvf9ase305mq69692pnsh3j6oitkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.munichats.chatsmutidemo",
+            "certificate_hash": "864223b9df3f5e9420bbf429c78b84ec6be0129d"
+          }
+        },
+        {
+          "client_id": "991970963854-dvo3jveglhfmf61v44v91ftfa5dlqqil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHWBLBSLBP3PNsV9kaGMSFMASIV1wc9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991970963854-dvo3jveglhfmf61v44v91ftfa5dlqqil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
